@@ -2,6 +2,7 @@ package com.company;
 
 public class Calculator {
 
+    //Method overloading
     public int addition(int  a, int b){
      return a+b;
     }
